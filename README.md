@@ -24,8 +24,3 @@ This repository contains a simulation of a Smart Ultrasonic Humidifier designed 
 | LED                    | Status indicator                     |
 | Resistors & Capacitors | Debouncing and pull-up configuration |
 | UART Interface         | Simulates Bluetooth control in Wokwi |
-
----
-
-## 📂 File Structure
-
